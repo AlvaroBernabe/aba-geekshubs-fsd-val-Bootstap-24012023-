@@ -4,18 +4,13 @@ body {
 }
 .caja1 {
     background-color: red;
-    border:0px;
-
 }
     .box1-1 {
         height: 100px;
         background-color: blue;
     }
-
 .caja2 {
     background-color: green;
-    border:0px;
-
 }
     .box2-1 {
         background-color: greenyellow;
@@ -25,10 +20,8 @@ body {
         background-color: goldenrod;
         height: 300px;
     }
-
 .caja3 {
     border:0px;
-
 }
     .box3-1{
         height: 150px;
@@ -54,11 +47,8 @@ body {
         height: 150px;
         background-color: red;
     }
-
 .caja4 {
     border:0px;
-
-
 }
     .box4-1 {
         background-color: yellow;
